@@ -4,6 +4,7 @@ A Java bytecode obfuscator with GUI
 ![alt text](https://i.imgur.com/SmgJbll.png)
 
 ## Usage
+* Follow this guide to install newest maven [here](https://github.com/m-thirumal/installation_guide/blob/master/maven/upgrade_maven.md)
 * Download the version you want in [releases](https://github.com/vimasig/Bozar/releases) for your platform
 * Run the executable.
 * Done.

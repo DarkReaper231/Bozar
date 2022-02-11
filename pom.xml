@@ -6,7 +6,7 @@
     <version>1.7.0</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <javaVersion>16</javaVersion>
+        <javaVersion>17</javaVersion>
         <maven.compiler.source>${javaVersion}</maven.compiler.source>
         <maven.compiler.target>${javaVersion}</maven.compiler.target>
         <mainClass>io.github.vimasig.bozar.ui.App</mainClass>
